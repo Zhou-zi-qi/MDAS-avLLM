@@ -44,7 +44,7 @@ MDAS-avLLM/
 │
 ├── ablations/                   # Ablation studies
 │   ├── layer_search_multigpu.py    # Multi-GPU layer window search
-│   ├── fusion_singlelayer.py       # Single-layer fusion (v=1.0, a=1.0)
+│   ├── fusion_singlelayer.py       # Single-layer fusion (v=1.5, a=1.5)
 │   └── singlelayer.py              # Single-layer single-vector inference
 │
 ├── vectors/                    # Pretrained steering vectors (.svec format)
